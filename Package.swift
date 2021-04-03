@@ -12,6 +12,7 @@ let package = Package(
                 resources: [
                     .copy("fonts"),
                     .copy("img"),
+                    .copy("runemarks"),
                 ]),
     ]
 )
